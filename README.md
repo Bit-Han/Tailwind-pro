@@ -78,6 +78,5 @@ You can check out some blog posts that help explain these better below
 - [Differences Between Tailwind CSS and Bootstrap](https://www.devwares.com/blog/diffrences-between-tailwind-css-and-bootstrap/)
 - [10 Awesome projects built with Tailwind CSS](https://www.devwares.com/blog/awesome-10-projects-built-with-tailwind/)
 - [How to use Tailwind css Width](https://www.devwares.com/blog/Tailwind-width/)
-Thank you!
 
 Thank you!
